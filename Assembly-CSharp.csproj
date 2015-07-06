@@ -60,6 +60,8 @@
      <Compile Include="Assets\Scripts\tutorialScripts\events\PlayerMoveEvent.cs" />
      <Compile Include="Assets\Scripts\tutorialScripts\events\PlayerStopEvent.cs" />
      <Compile Include="Assets\Scripts\tutorialScripts\events\PlayerTurnEvent.cs" />
+     <None Include="Assets\TSF\Shaders\TSFOutline.shader" />
+     <None Include="Assets\TSF\Shaders\TSF.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/tutorialScripts/InputManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/tutorialScripts/InputManager.cs" Line="74" Column="31" />
+      <File FileName="Assets/Scripts/tutorialScripts/PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/tutorialScripts/events/PlayerStopEvent.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/tutorialScripts/events/PlayerMoveEvent.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/tutorialScripts/events/PlayerHitEvent.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/tutorialScripts/PlayerAnimation.cs" Line="35" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Scripts" expanded="True">
+              <Node name="tutorialScripts" expanded="True">
+                <Node name="events" expanded="True" />
+                <Node name="InputManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
